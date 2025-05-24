@@ -10,7 +10,7 @@ I made this project to automate the process of answering multiple questions embe
 ## Installation
 Install the required Python packages by running:
 ```bash
-pip install flask PyPDF2 google-generativeai markdown werkzeug
+pip install flask PyPDF2 google-generativeai markdown 
 ```
 
 ## Running the Application

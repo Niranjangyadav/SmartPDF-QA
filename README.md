@@ -5,3 +5,10 @@ I made this project to automate the process of answering multiple questions embe
 * Save time and effort in manually answering bulk questions from PDFs 
 * Improve consistency and quality of responses by using AI-generated answers
 * Make document processing smarter by combining text extraction and natural language generation
+## Installation
+
+Install the required Python packages by running:
+
+```bash
+pip install flask PyPDF2 google-generativeai markdown werkzeug
+

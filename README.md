@@ -33,10 +33,9 @@ pip install flask PyPDF2 google-generativeai markdown werkzeug
   ```
 3. Open your browser and go to:
 http://127.0.0.1:5000/
+
 4. To stop the server, press Ctrl + C in the terminal.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 

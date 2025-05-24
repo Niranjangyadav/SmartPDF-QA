@@ -20,20 +20,21 @@ pip install flask PyPDF2 google-generativeai markdown werkzeug
   export GEMINI_API_KEY="your_api_key_here"
   ```
 - On Windows (Command Prompt):
- ```bash
-set GEMINI_API_KEY="your_api_key_here"
- ```
+  ```bash
+  set GEMINI_API_KEY="your_api_key_here"
+  ```
 - On Windows (PowerShell):
-```bash
- setx GEMINI_API_KEY "your_api_key_here"
-```
-2. **Run the Flask app:
-```bash
-python app.py
-```
-3. **Open your browser and go to:
+  ```bash
+  setx GEMINI_API_KEY "your_api_key_here"
+  ```
+2. Run the Flask app:
+  ```bash
+  python app.py
+  ```
+3. Open your browser and go to:
 http://127.0.0.1:5000/
-4. **To stop the server, press Ctrl + C in the terminal.
+
+4. To stop the server, press Ctrl + C in the terminal.
 
   
 
